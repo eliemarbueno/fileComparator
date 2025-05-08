@@ -1,4 +1,4 @@
-package com.ebueno.filecomparator.v1.util;
+package com.ebueno.filecomparator.v1.constants;
 
 public class ConstantsFileComparator {
 	public static final String LAST_VERSION = "1.0";

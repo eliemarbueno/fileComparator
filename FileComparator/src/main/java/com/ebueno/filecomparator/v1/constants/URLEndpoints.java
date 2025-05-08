@@ -1,4 +1,4 @@
-package com.ebueno.filecomparator.v1.util;
+package com.ebueno.filecomparator.v1.constants;
 
 public class URLEndpoints {
 	public static final String URL_BASE = "/api";
